@@ -8,9 +8,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Template/Template.unity
     guid: cd9af8d017a0642f4ae7983c33653b6a
-  - enabled: 1
-    path: Assets/Sprint 2/Sprint 2 Example.unity
+  - enabled: 0
+    path: Assets/Sprint 2/Scenes/Sprint 2 Example.unity
     guid: b3f389440dc0943fe84f569a0d28d6a2
+  - enabled: 1
+    path: Assets/Audio in Unity/Spatializer/Spatializer.unity
+    guid: 59d6c60b37d1245aea2198b94df44b5e
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: f60b43e490df34979b439ab2e6993916, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8cedffe374003476fb89399fc255e09b, type: 2}
