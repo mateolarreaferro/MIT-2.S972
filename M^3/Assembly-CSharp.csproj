@@ -53,32 +53,32 @@
     <UnityVersion>2020.3.25f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets/Intro to Scripting/Scripts/Answer1.cs" />
     <Compile Include="Assets/Sprint 2/Scripts/TouchToPlaySound.cs" />
     <Compile Include="Assets/Intro to Scripting/Scripts/PublicAndPrivate.cs" />
+    <Compile Include="Assets/Intro to Scripting/Scripts/GameObjects.cs" />
+    <Compile Include="Assets/Intro to Scripting/Scripts/ChangeScale.cs" />
+    <Compile Include="Assets/Intro to Scripting/Scripts/DebugLogEx.cs" />
     <Compile Include="Assets/Intro to Scripting/Scripts/MethodsInUnity.cs" />
     <Compile Include="Assets/Intro to Scripting/Scripts/LoopsInUnity.cs" />
+    <Compile Include="Assets/Intro to Scripting/Scripts/AddTorqueEx.cs" />
     <Compile Include="Assets/Sprint 2/Scripts/Floor.cs" />
     <Compile Include="Assets/Audio in Unity/Probabilistic/ProbabilityManager.cs" />
+    <Compile Include="Assets/Intro to Scripting/Scripts/AddForceEx.cs" />
+    <Compile Include="Assets/Intro to Scripting/Scripts/TransformEx.cs" />
+    <Compile Include="Assets/Intro to Scripting/Scripts/InstantiateEx.cs" />
+    <Compile Include="Assets/Intro to Scripting/Scripts/References.cs" />
     <Compile Include="Assets/Audio in Unity/Spatializer/Spatializer.cs" />
     <Compile Include="Assets/Intro to Scripting/Scripts/DataTypesScope.cs" />
     <Compile Include="Assets/Sprint 2/Scripts/TriggerCollision.cs" />
     <Compile Include="Assets/Sprint 2/Scripts/TouchToPlayRandomSound.cs" />
     <Compile Include="Assets/Intro to Scripting/Scripts/SerializeFields.cs" />
-    <Compile Include="Assets/Intro to Scripting/Scripts/IfElse.cs" />
-    <Compile Include="Assets/Intro to Scripting/Scripts/MethodEx.cs" />
-    <Compile Include="Assets/Intro to Scripting/Scripts/References.cs" />
-    <Compile Include="Assets/Intro to Scripting/Scripts/DebugLogEx.cs" />
-    <Compile Include="Assets/Intro to Scripting/Scripts/GameObjects.cs" />
-    <Compile Include="Assets/Intro to Scripting/Scripts/InstantiateEx.cs" />
-    <Compile Include="Assets/Intro to Scripting/Scripts/TransformEx.cs" />
     <Compile Include="Assets/Intro to Scripting/Scripts/Rotate.cs" />
-    <Compile Include="Assets/Intro to Scripting/Scripts/ChangeScale.cs" />
-    <Compile Include="Assets/Intro to Scripting/Scripts/AddForceEx.cs" />
-    <Compile Include="Assets/Intro to Scripting/Scripts/AddTorqueEx.cs" />
     <Compile Include="Assets/Intro to Scripting/Scripts/TriggerEx.cs" />
     <Compile Include="Assets/Intro to Scripting/Scripts/Randomness.cs" />
+    <Compile Include="Assets/Intro to Scripting/Scripts/IfElse.cs" />
     <Compile Include="Assets/Intro to Scripting/Scripts/MathEx.cs" />
-    <Compile Include="Assets/Intro to Scripting/Scripts/Answer1.cs" />
+    <Compile Include="Assets/Intro to Scripting/Scripts/MethodEx.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
