@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Intro to Scripting/Intro to Scripting.unity
+- path: Assets/Audio in Unity/Spatializer/Spatializer.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
