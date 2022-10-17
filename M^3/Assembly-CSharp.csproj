@@ -79,6 +79,13 @@
     <Compile Include="Assets/Intro to Scripting/Scripts/IfElse.cs" />
     <Compile Include="Assets/Intro to Scripting/Scripts/MathEx.cs" />
     <Compile Include="Assets/Intro to Scripting/Scripts/MethodEx.cs" />
+    <Compile Include="Assets/Audio in Unity/Intro/PlayAudio.cs" />
+    <Compile Include="Assets/Audio in Unity/Intro/PlayerMovement.cs" />
+    <Compile Include="Assets/Audio in Unity/Intro/TriggerSoundOnTrigger.cs" />
+    <Compile Include="Assets/Audio in Unity/Intro/StopSound.cs" />
+    <Compile Include="Assets/Audio in Unity/Intro/SelectingClip.cs" />
+    <Compile Include="Assets/Audio in Unity/Intro/ChangeVolume.cs" />
+    <Compile Include="Assets/Audio in Unity/Intro/RandomizeClip.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

@@ -1,13 +1,16 @@
 ﻿<Properties StartupConfiguration="{BF0036C5-CA65-411B-076A-97A8730FBB3E}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Intro to Scripting/Scripts/MathEx.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Audio in Unity/Intro/RandomizeClip.cs">
     <Files>
       <File FileName="Assets/Intro to Scripting/Scripts/Answer1.cs" Line="16" Column="1" />
-      <File FileName="Assets/Intro to Scripting/Scripts/MathEx.cs" Line="16" Column="9" />
+      <File FileName="Assets/Intro to Scripting/Scripts/MathEx.cs" />
+      <File FileName="Assets/Audio in Unity/Intro/PlayAudio.cs" />
+      <File FileName="Assets/Audio in Unity/Intro/TriggerSoundOnTrigger.cs" />
+      <File FileName="Assets/Audio in Unity/Intro/RandomizeClip.cs" Line="20" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="63487fd7-fb42-4aab-8eee-d152db3ffbf8" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b4cb9284-f46c-4661-b909-64b9b35a7c69" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
