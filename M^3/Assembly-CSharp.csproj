@@ -86,6 +86,7 @@
     <Compile Include="Assets/Audio in Unity/Intro/SelectingClip.cs" />
     <Compile Include="Assets/Audio in Unity/Intro/ChangeVolume.cs" />
     <Compile Include="Assets/Audio in Unity/Intro/RandomizeClip.cs" />
+    <Compile Include="Assets/Audio in Unity/Audio Reactive/FFTGrandManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
