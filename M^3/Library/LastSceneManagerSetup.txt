@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Audio in Unity/Spatializer/Spatializer.unity
+- path: Assets/Audio in Unity/Audio Reactive/FFT.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

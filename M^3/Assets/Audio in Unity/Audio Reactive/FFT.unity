@@ -768,9 +768,9 @@ MonoBehaviour:
   SamplePrefabs:
   - {fileID: 9130548290645681066, guid: 2e839069020ca4728ad3f7f1742865d7, type: 3}
   - {fileID: 854194961277684776, guid: e4202b73ea2e349278b01a4b0eefe1ae, type: 3}
-  - {fileID: 9130548290645681066, guid: 2e839069020ca4728ad3f7f1742865d7, type: 3}
+  - {fileID: 2265743827316490168, guid: 136c094e0f82d411da2d71da43a66250, type: 3}
   - {fileID: 854194961277684776, guid: e4202b73ea2e349278b01a4b0eefe1ae, type: 3}
-  - {fileID: 9130548290645681066, guid: 2e839069020ca4728ad3f7f1742865d7, type: 3}
+  - {fileID: 8548803290266961928, guid: 68d39025a8df64fb0a0258ff570dc31d, type: 3}
   - {fileID: 854194961277684776, guid: e4202b73ea2e349278b01a4b0eefe1ae, type: 3}
   Distance: 0000000014000000280000003c0000005000000064000000
 --- !u!82 &1434889632
@@ -959,10 +959,10 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1721480092}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 138.6, z: 0.2}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}

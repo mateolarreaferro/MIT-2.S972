@@ -6,7 +6,7 @@
       <File FileName="Assets/Audio in Unity/Intro/PlayAudio.cs" />
       <File FileName="Assets/Audio in Unity/Intro/TriggerSoundOnTrigger.cs" />
       <File FileName="Assets/Audio in Unity/Intro/RandomizeClip.cs" Line="20" Column="46" />
-      <File FileName="Assets/Audio in Unity/Audio Reactive/FFTGrandManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Audio in Unity/Audio Reactive/FFTGrandManager.cs" Line="127" Column="70" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
